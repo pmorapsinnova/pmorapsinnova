@@ -10,8 +10,7 @@
 ---
 ###### Encabezado 6
 ---
-![Tony Tiger][[img1](https://static.wikia.nocookie.net/burngoberrietvseries/images/0/0e/Tony_the_Tiger.png/revision/latest/scale-to-width-down/365?cb=20181229122325)]
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![Tony Tiger](https://static.wikia.nocookie.net/burngoberrietvseries/images/0/0e/Tony_the_Tiger.png/revision/latest/scale-to-width-down/365?cb=20181229122325)
 
 <!--
 **pmorapsinnova/pmorapsinnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
